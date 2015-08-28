@@ -14,3 +14,27 @@ No semicolons.
 What is object?
 Object is an instance of class.
 
+
+Note:
+
+Variable is not an object it simply stores object inside it.
+EX: x = 2
+x = variable
+2 is an object.
+
+When we divide an integer by an integer than we get an integer while in all other case we will get a float output.
+EX: 10 / 3
+# => 3
+10.0 / 3
+# => 3.33333333333333
+10 / 3.0
+# => 3.33333333333333
+10.0 / 3.0
+# => 3.33333333333333
+
+
+Array is an ordered collection of objects. I can be accessed through index. It uses when the orders matters.
+
+
+Hashes is an unordered collection of objects. It can be accessed through key value pair. It uses when labels matters.
+
