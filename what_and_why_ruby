@@ -38,3 +38,6 @@ Array is an ordered collection of objects. I can be accessed through index. It u
 
 Hashes is an unordered collection of objects. It can be accessed through key value pair. It uses when labels matters.
 
+
+Symbol is a label used to identify a piece of data. It works something like string. The difference between string and symbol is : Symbol is only stored in memory one time while string is stored every time.  
+
